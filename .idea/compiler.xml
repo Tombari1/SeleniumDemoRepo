@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="UITEST07" />
-        <module name="selenium-Repo1" />
         <module name="BlueSkyCitadelCucumberSeleniumTestNG" />
+        <module name="selenium-Repo1" />
+        <module name="UITEST-07" />
       </profile>
     </annotationProcessing>
   </component>

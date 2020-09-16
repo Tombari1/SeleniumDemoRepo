@@ -1,3 +1,4 @@
 stepDefinitions\BlueSkyFormStep.class
+stepDefinitions\MyCommandStepdefs.class
 stepDefinitions\MyStepdefs1.class
 TestRunner.class
